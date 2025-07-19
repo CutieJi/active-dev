@@ -56,7 +56,7 @@ If you come across any errors or have suggestions for improvements, please creat
 
 When submitting a pull request, please follow these steps:
 
-- Clone [this repository](https://github.com/cutieji/active-dev) `https://github.com/IgorKowalczyk/active-dev.git`
+- Clone [this repository](https://github.com/cutieji/active-dev) `https://github.com/CutieJi/active-dev.git`
 - Create a branch from `main` and give it a meaningful name (e.g. `my-awesome-new-feature`).
 - Open a [pull request](https://github.com/cutieji/active-dev/pulls) on [GitHub](https://github.com/) and clearly describe the feature or fix you are proposing.
 
