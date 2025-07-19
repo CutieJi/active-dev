@@ -1,0 +1,54 @@
+{
+  "name": "active-dev",
+  "version": "1.1.0",
+  "description": "🛡️ Node.js app to get active developer badge on Discord",
+  "exports": null,
+  "type": "module",
+  "scripts": {
+    "start": "tsx index.ts",
+    "format": "prettier . --write --cache --ignore-unknown",
+    "format:check": "prettier . --check --cache --ignore-unknown",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorKowalczyk/active-dev.git"
+  },
+  "keywords": [
+    "nodejs",
+    "discord",
+    "discord-badge",
+    "active-developer",
+    "active-developer-badge"
+  ],
+  "author": "Igor Kowalczyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IgorKowalczyk/active-dev/issues"
+  },
+  "homepage": "https://github.com/IgorKowalczyk/active-dev#readme",
+  "dependencies": {
+    "chalk": "5.4.1",
+    "discord.js": "14.21.0",
+    "node-fetch": "3.3.2",
+    "ora": "8.2.0",
+    "prompts": "2.4.2"
+  },
+  "devDependencies": {
+    "@igorkowalczyk/eslint-config": "3.1.0",
+    "@igorkowalczyk/prettier-config": "3.1.0",
+    "@types/node": "24.0.15",
+    "@types/prompts": "2.4.9",
+    "eslint": "9.31.0",
+    "prettier": "3.6.2",
+    "tsx": "4.20.3"
+  },
+  "packageManager": "pnpm@10.13.1",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "unrs-resolver"
+    ]
+  }
+}
