@@ -1,4 +1,4 @@
-![Active Developer](https://github.com/CutieJi/active-dev/assets/49127376/17770e3d-dd86-4044-9969-7adcfc3ebff3)
+![Active Developer](https://github-production-user-asset-6210df.s3.amazonaws.com/49127376/264430537-17770e3d-dd86-4044-9969-7adcfc3ebff3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250719%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250719T122630Z&X-Amz-Expires=300&X-Amz-Signature=0ae241f4f7b0e6d85d0b55421b9cfc7092803db42469a04064721563fe09a547&X-Amz-SignedHeaders=host)
 
 <div align="center">
   <a aria-label="GitHub License" href="https://github.com/cutieji/active-dev/blob/master/license.md">
