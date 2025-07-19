@@ -4,10 +4,10 @@
   <a aria-label="GitHub License" href="https://github.com/cutieji/active-dev/blob/master/license.md">
     <img src="https://img.shields.io/github/license/cutieji/blog?color=%2334D058&logo=github&style=flat-square&label=License">
   </a>
-  <a aria-label="Version" href="https://github.com/igorkowalczyk/active-dev/releases">
-    <img src="https://img.shields.io/github/v/release/igorkowalczyk/active-dev?color=%2334D058&logo=github&style=flat-square&label=Version">
+  <a aria-label="Version" href="https://github.com/cutieji/active-dev/releases">
+    <img src="https://img.shields.io/github/v/release/cutieji/active-dev?color=%2334D058&logo=github&style=flat-square&label=Version">
   </a>
-  <a aria-label="Discord" href="https://igorkowalczyk.dev/discord">
+  <a aria-label="Discord" href="https://sam.udt/discord">
     <img src="https://img.shields.io/discord/695282860399001640?color=%2334D058&logo=discord&style=flat-square&logoColor=fff&label=Discord">
   </a>
 </div>
@@ -16,7 +16,7 @@
 
 ## 🔩 Without installation (Replit)
 
-[![Run on Repl.it](https://repl.it/badge/github/igorkowalczyk/active-dev)](https://repl.it/github/igorkowalczyk/active-dev)
+[![Run on Repl.it](https://repl.it/badge/github/cutieji/active-dev)](https://repl.it/github/cutieji/active-dev)
 
 **Steps:**
 
