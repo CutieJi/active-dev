@@ -1,8 +1,8 @@
-![Active Developer](https://github.com/IgorKowalczyk/active-dev/assets/49127376/17770e3d-dd86-4044-9969-7adcfc3ebff3)
+![Active Developer](https://github.com/CutieJi/active-dev/assets/49127376/17770e3d-dd86-4044-9969-7adcfc3ebff3)
 
 <div align="center">
-  <a aria-label="GitHub License" href="https://github.com/igorkowalczyk/active-dev/blob/master/license.md">
-    <img src="https://img.shields.io/github/license/igorkowalczyk/blog?color=%2334D058&logo=github&style=flat-square&label=License">
+  <a aria-label="GitHub License" href="https://github.com/cutieji/active-dev/blob/master/license.md">
+    <img src="https://img.shields.io/github/license/cutieji/blog?color=%2334D058&logo=github&style=flat-square&label=License">
   </a>
   <a aria-label="Version" href="https://github.com/igorkowalczyk/active-dev/releases">
     <img src="https://img.shields.io/github/v/release/igorkowalczyk/active-dev?color=%2334D058&logo=github&style=flat-square&label=Version">
