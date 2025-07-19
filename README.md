@@ -30,7 +30,7 @@
 ## 🔩 Installation (Windows)
 
 - Download the latest version of Node.js from [here](https://nodejs.org/en/download/) and install it
-- Clone this repository ([Download](https://github.com/IgorKowalczyk/active-dev/archive/refs/heads/main.zip))
+- Clone this repository ([Download](https://github.com/cutieji/active-dev/archive/refs/heads/main.zip))
 - Find the `.zip` file you downloaded and extract it
 - Open the folder in your terminal (In Windows you can use `win` + `R` and type `cmd` and then `cd` drag the folder to the terminal)
 - Install dependencies by running `npm install` or `pnpm install`
@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/49127376/210598199-48529c34-d783-4d6c-
 
 ## ⁉️ Issues
 
-If you come across any errors or have suggestions for improvements, please create a [new issue here](https://github.com/igorkowalczyk/active-dev/issues) and describe it clearly.
+If you come across any errors or have suggestions for improvements, please create a [new issue here](https://github.com/cutieji/active-dev/issues) and describe it clearly.
 
 ## 📥 Pull Requests
 
